@@ -1,8 +1,8 @@
 body {
-    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-family: 'Times New Roman', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ff0000;
+    background-color: #b85b5b;
 }
 
 header {
@@ -20,7 +20,7 @@ nav {
 }
 
 nav a {
-    color: #fff;
+    color: #67105c;
     margin: 0 10px;
     text-decoration: none;
 }
@@ -34,8 +34,8 @@ main {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #09ff00;
+    color: #f7f7f7;
     text-align: center;
     padding: 10px 0;
     position: fixed;
